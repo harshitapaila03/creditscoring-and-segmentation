@@ -1,4 +1,4 @@
-# Credit Scoring and Segmentation
+# Financial Customer Segmentation for Credit Scoring
 
 ## Introduction
 
